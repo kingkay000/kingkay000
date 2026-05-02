@@ -44,7 +44,9 @@ time, because there is no safe place for it to fail.
 | Repository | What It Does | Stack |
 |---|---|---|
 | [fxguru-smc-ea](https://github.com/ACECollegeInternational/fxguru-smc-ea) | MQL5 Expert Advisor with four-state machine architecture — live Exness MT5 account | MQL5 · MetaTrader 5 · REST API |
-| [ai-signal-bot](https://github.com/ACECollegeInternational/ai-signal-bot) | SMC confluence scoring engine + multi-provider LLM signal analysis | FastAPI · Python · Groq · Anthropic · Gemini |
+| [ai-signal-bot](https://github.com/ACECollegeInternational/ai-signal-bot) | Extended fork — SMC confluence scoring engine, multi-provider LLM
+fallback chain, and fundamental analyst filter built on an open-source
+foundation | FastAPI · Python · Groq · Anthropic · Gemini |
 | [ngx-research-bot](https://github.com/ACECollegeInternational/ngx-research-bot) | Six-role multi-agent LLM equity research pipeline for the Nigerian Exchange | n8n · LLM APIs · Google Sheets |
 
 ## Acknowledgements
