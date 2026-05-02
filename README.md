@@ -49,18 +49,6 @@ fallback chain, and fundamental analyst filter built on an open-source
 foundation | FastAPI · Python · Groq · Anthropic · Gemini |
 | [ngx-research-bot](https://github.com/ACECollegeInternational/ngx-research-bot) | Six-role multi-agent LLM equity research pipeline for the Nigerian Exchange | n8n · LLM APIs · Google Sheets |
 
-## Acknowledgements
-
-The project ai-signal-bot began as a fork of work by [Citycod],
-whose original codebase provided the initial signal request structure.
-The system has since been substantially extended beyond that foundation —
-including the SMC confluence scoring engine, multi-provider LLM fallback
-chain, Pydantic response validation layer, fundamental analyst filter,
-structured JSON output schema enforcement, and Render deployment
-configuration. All extensions are original work.
-
-The original repository: [(https://github.com/Citycod/trading-bot)]
-
 ---
 
 ## Technical Stack
