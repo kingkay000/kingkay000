@@ -33,20 +33,18 @@ time, because there is no safe place for it to fail.
 | Repository | What It Does | Stack |
 |---|---|---|
 | [ace-sabi-api](https://github.com/ACECollegeInternational/ace-sabi-api) | School intelligence API — at-risk student detection, parent notifications, RBAC-gated staff commands | FastAPI · Python · MySQL · Telegram |
-| [ace-bursar-bot](https://github.com/ACECollegeInternational/ace-bursar-bot) | WhatsApp fee automation for 300+ students — zero vendor cost | n8n · WhatsApp Business API · MySQL |
+| [ace-bursar-bot](https://github.com/ACECollegeInternational/ace-bursar-bot) | WhatsApp fee automation for 260+ students — zero vendor cost | n8n · WhatsApp Business API · MySQL |
 | [ace-touch-typer](https://github.com/ACECollegeInternational/ace-touch-typer) | 143-lesson gamified typing curriculum on a local Docker stack | HTML · JS · Docker · Nginx |
 | [ace-essaymaster-pro](https://github.com/ACECollegeInternational/ace-essaymaster-pro) | Gemini 2.0 Flash AI writing tutor — live JSS3 classroom deployment | HTML · JS · Gemini 2.0 Flash |
-| [ace-server-stack](https://github.com/ACECollegeInternational/ace-server-stack) | Full school intranet on a ₦120k laptop — JupyterHub + OnlyOffice | Docker Compose · Nginx · MikroTik |
-| [ace-gamified-lessons](https://github.com/ACECollegeInternational/ace-gamified-lessons) | 7+ standalone AI-integrated gamified lesson applications | HTML · JS · Web Audio · Gemini |
+| [ace-server-stack](https://github.com/ACECollegeInternational/ace-server-stack) | Full school intranet on a ₦180k laptop — JupyterHub + OnlyOffice | Docker Compose · Nginx · MikroTik |
+| [ace-gamified-lessons](https://github.com/ACECollegeInternational/ace-gamified-lessons) | 10+ standalone AI-integrated gamified lesson applications and many others without AI-integration | HTML · JS · Web Audio · Gemini |
 
 ### 📈 Algorithmic Trading
 
 | Repository | What It Does | Stack |
 |---|---|---|
 | [fxguru-smc-ea](https://github.com/ACECollegeInternational/fxguru-smc-ea) | MQL5 Expert Advisor with four-state machine architecture — live Exness MT5 account | MQL5 · MetaTrader 5 · REST API |
-| [ai-signal-bot](https://github.com/ACECollegeInternational/ai-signal-bot) | Extended fork — SMC confluence scoring engine, multi-provider LLM
-fallback chain, and fundamental analyst filter built on an open-source
-foundation | FastAPI · Python · Groq · Anthropic · Gemini |
+| [ai-signal-bot](https://github.com/ACECollegeInternational/ai-signal-bot) | Extended fork — SMC confluence scoring engine, multi-provider LLM fallback chain, and fundamental analyst filter built on an open-source foundation | FastAPI · Python · Groq · Anthropic · Gemini |
 | [ngx-research-bot](https://github.com/ACECollegeInternational/ngx-research-bot) | Six-role multi-agent LLM equity research pipeline for the Nigerian Exchange | n8n · LLM APIs · Google Sheets |
 
 ---
